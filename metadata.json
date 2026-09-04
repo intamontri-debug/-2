@@ -1,0 +1,6 @@
+{
+  "name": "ระบบเช็คชื่อวิชาแนะแนว ม.1-ม.6",
+  "description": "ระบบเช็คชื่อและบันทึกการเข้าเรียนรายวิชาแนะแนว ชั้นมัธยมศึกษาปีที่ 1-6 พร้อมแดชบอร์ดสรุปสถิติและส่งออกรายงาน Excel และ Google Sheets",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
